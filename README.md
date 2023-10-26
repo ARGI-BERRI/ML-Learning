@@ -1,5 +1,7 @@
 # ML-Learning
 
+https://github.com/ARGI-BERRI/python-fun に統合されました
+
 ## 動機
 
 - PyTorch / Scikit-learn で機械学習をやる
